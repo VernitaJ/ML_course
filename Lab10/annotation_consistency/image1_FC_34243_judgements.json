@@ -1,0 +1,4876 @@
+{
+  "0": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                7.460422039031982,
+                512.8555297851562
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                0.6261528134346008,
+                578.7573852539062
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                51.3950080871582,
+                667.11474609375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                74.82678985595703,
+                581.6864013671875
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                86.54267883300781,
+                517.2489624023438
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                149.51559448242188,
+                548.003173828125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                123.15483856201172,
+                593.4022827148438
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                48.954200744628906,
+                529.4530639648438
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                644.2406616210938,
+                433.3486328125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                674.7800903320312,
+                479.2602233886719
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                610.831787109375,
+                479.670166015625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                640.1414184570312,
+                504.0606994628906
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                937.333251953125,
+                456.2169494628906
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                958.55322265625,
+                455.8165588378906
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                948.1434326171875,
+                458.2188415527344
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                948.5438232421875,
+                449.4105224609375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                952.147216796875,
+                458.61920166015625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1030.2208251953125,
+                493.0516662597656
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                880.4796752929688,
+                493.4520263671875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                953.7487182617188,
+                581.9354248046875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1083.871337890625,
+                448.20941162109375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1096.2830810546875,
+                459.4199523925781
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1084.672119140625,
+                471.4312744140625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.057373046875,
+                461.021484375
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1096.683349609375,
+                446.20751953125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1106.69287109375,
+                455.01580810546875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1100.6871337890625,
+                460.62109375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1094.2811279296875,
+                451.41241455078125
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1264.4412841796875,
+                329.3774719238281
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1267.243896484375,
+                572.006103515625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1363.33447265625,
+                431.47369384765625
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1137.1212158203125,
+                426.6691589355469
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "1": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                642.9052124023438,
+                433.4197692871094
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                674.91015625,
+                481.4271545410156
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                609.6201171875,
+                487.828125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                616.0210571289062,
+                505.43084716796875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                11.426944732666016,
+                511.8747253417969
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                76.6238021850586,
+                577.6287841796875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                59.90666198730469,
+                664.5579833984375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                0.282182514667511,
+                603.2617797851562
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                952.494873046875,
+                456.4096984863281
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1031.0816650390625,
+                491.8222961425781
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1014.5881958007812,
+                579.1409912109375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                881.1845703125,
+                517.0476684570312
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Pedestrian"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                948.6979370117188,
+                446.7658386230469
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                935.3576049804688,
+                454.04241943359375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                960.3404541015625,
+                455.1338806152344
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                945.0596313476562,
+                458.8934631347656
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1084.4005126953125,
+                447.96014404296875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.2158203125,
+                460.6372985839844
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1097.91357421875,
+                461.8910827636719
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1071.583984375,
+                471.2248229980469
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1097.6348876953125,
+                445.4525451660156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1106.9686279296875,
+                455.761474609375
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1105.71484375,
+                463.00555419921875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1089.972900390625,
+                446.84564208984375
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1367.6385498046875,
+                345.2210998535156
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1192.3809814453125,
+                569.4663696289062
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1136.6363525390625,
+                420.81414794921875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1256.1494140625,
+                329.1734313964844
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "2": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1259.997802734375,
+                332.67840576171875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1266.615478515625,
+                555.470947265625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1368.0853271484375,
+                420.9130859375
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1145.292724609375,
+                423.1189270019531
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1082.3690185546875,
+                449.0096435546875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1082.1368408203125,
+                470.60284423828125
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1096.99658203125,
+                458.29705810546875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1070.063232421875,
+                457.8326721191406
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1095.1693115234375,
+                445.5268859863281
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1097.4912109375,
+                461.3154602050781
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1105.3853759765625,
+                451.7958679199219
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1087.2750244140625,
+                452.26025390625
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                641.6970825195312,
+                446.35791015625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                641.3687744140625,
+                503.4923400878906
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                674.2046508789062,
+                468.02960205078125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                610.8313598632812,
+                469.0146789550781
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                949.7168579101562,
+                456.82843017578125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                950.7963256835938,
+                580.6063842773438
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1021.3209838867188,
+                501.8058776855469
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                884.9493408203125,
+                499.64697265625
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "3": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                884.7086181640625,
+                500.381103515625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                944.307861328125,
+                455.5248718261719
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                953.0908813476562,
+                582.2515869140625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1023.9826049804688,
+                504.4589538574219
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1085.3826904296875,
+                447.733642578125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1096.60888671875,
+                461.22674560546875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.0830078125,
+                459.28375244140625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1084.7349853515625,
+                469.97027587890625
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1105.67626953125,
+                453.23883056640625
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1096.7169189453125,
+                444.81915283203125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1093.478515625,
+                454.75006103515625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1100.9267578125,
+                462.4141540527344
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                949.41650390625,
+                446.02923583984375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                959.1915283203125,
+                453.40057373046875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                938.3594360351562,
+                454.2018127441406
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                951.4996948242188,
+                456.2850036621094
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                642.0532836914062,
+                438.3856506347656
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                672.8516235351562,
+                474.7332763671875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                609.0352172851562,
+                474.455810546875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                640.6659545898438,
+                501.92462158203125
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                74.19405364990234,
+                519.8406982421875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                148.9048614501953,
+                543.7128295898438
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                64.4683837890625,
+                554.7647094726562
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                105.58143615722656,
+                581.7313232421875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                20.46535873413086,
+                515.8075561523438
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                70.28179931640625,
+                566.0809936523438
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                21.836454391479492,
+                653.8310546875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1.727064609527588,
+                578.8778686523438
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1362.8056640625,
+                448.5630798339844
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1213.6588134765625,
+                446.8408508300781
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1282.204345703125,
+                388.28436279296875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1281.1710205078125,
+                484.7303161621094
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "TwoWheeler"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1355.2276611328125,
+                454.07427978515625
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1259.470703125,
+                396.20672607421875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1203.3253173828125,
+                457.5187683105469
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1265.3262939453125,
+                488.5192565917969
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 9
+      },
+      "selectionMethod": "outer_points",
+      "type": "TwoWheeler"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1369.694580078125,
+                458.5521240234375
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1256.37060546875,
+                323.5278015136719
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1144.0799560546875,
+                457.86322021484375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1268.7708740234375,
+                557.753662109375
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 10
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "4": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                954.814697265625,
+                458.2905578613281
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                878.3229370117188,
+                492.85589599609375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1029.7061767578125,
+                492.53582763671875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                888.884521484375,
+                580.8694458007812
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1261.6795654296875,
+                328.1254577636719
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1136.8603515625,
+                420.29962158203125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1367.2957763671875,
+                344.1278991699219
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1189.348388671875,
+                570.0827026367188
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1328.3360595703125,
+                384.1473388671875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1203.7060546875,
+                453.9989318847656
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1329.43896484375,
+                487.45416259765625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1362.8941650390625,
+                453.63128662109375
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "TwoWheeler"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1083.6300048828125,
+                447.0137634277344
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.2919921875,
+                457.6753234863281
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1097.9678955078125,
+                456.9400634765625
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1071.497802734375,
+                471.6456604003906
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                645.6213989257812,
+                445.8311462402344
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                609.7103881835938,
+                484.73297119140625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                675.6405029296875,
+                480.5723571777344
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                614.8311767578125,
+                504.8960876464844
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "5": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1018.6082153320312,
+                525.8555297851562
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                946.6331176757812,
+                460.04974365234375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                884.940185546875,
+                529.9684448242188
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                956.915283203125,
+                581.3792114257812
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1265.3800048828125,
+                340.7767639160156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1152.2762451171875,
+                460.04974365234375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1362.0322265625,
+                447.711181640625
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1283.8878173828125,
+                562.871337890625
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                642.2813110351562,
+                449.7676086425781
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                615.5476684570312,
+                470.3319091796875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                673.1277465820312,
+                484.7269287109375
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                634.0556030273438,
+                499.1219482421875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                13.01335334777832,
+                509.40411376953125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                70.59342956542969,
+                575.2098999023438
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                29.46480369567871,
+                649.241455078125
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                0.674766480922699,
+                583.4356079101562
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "6": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1203.404296875,
+                456.4658203125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1323.2508544921875,
+                385.69024658203125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1363.828857421875,
+                449.860107421875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1239.263916015625,
+                488.07891845703125
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "TwoWheeler"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1264.271240234375,
+                328.59796142578125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1136.4033203125,
+                426.7400817871094
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1189.2491455078125,
+                568.291259765625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1365.7161865234375,
+                371.06329345703125
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1082.5296630859375,
+                448.3775634765625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.18408203125,
+                459.05401611328125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1072.02001953125,
+                471.7322998046875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1097.04296875,
+                459.7213134765625
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1096.54248046875,
+                445.8752746582031
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1107.0521240234375,
+                453.8825988769531
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1099.87890625,
+                460.2217712402344
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1089.5361328125,
+                448.21075439453125
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1143.9193115234375,
+                443.0393371582031
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1139.248291015625,
+                447.37664794921875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1149.7579345703125,
+                447.54345703125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1144.5865478515625,
+                452.3812255859375
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                948.3440551757812,
+                447.3982238769531
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                935.8593139648438,
+                454.2718505859375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                946.9412841796875,
+                458.9010314941406
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                959.1454467773438,
+                453.85101318359375
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                952.23046875,
+                459.1733093261719
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                882.6142578125,
+                511.96942138671875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                894.252685546875,
+                579.9486694335938
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1029.94677734375,
+                491.072998046875
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                643.9515380859375,
+                433.2903137207031
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                610.5653686523438,
+                486.87652587890625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                616.4570922851562,
+                504.8321228027344
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                674.5321655273438,
+                477.05706787109375
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                4.387360095977783,
+                512.2408447265625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                -0.3738348186016083,
+                609.8453369140625
+              ],
+              "edge": "Left",
+              "visible": false
+            },
+            {
+              "coords": [
+                55.173439025878906,
+                668.1699829101562
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                75.80528259277344,
+                582.0717163085938
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 9
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "7": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                872.0341186523438,
+                538.7470092773438
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                957.3545532226562,
+                449.01336669921875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1039.73291015625,
+                529.9207153320312
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                960.2966918945312,
+                591.7045288085938
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1260.389404296875,
+                325.44580078125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1133.879638671875,
+                431.3608703613281
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1192.721435546875,
+                575.5230712890625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1367.775634765625,
+                456.36859130859375
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                605.7753295898438,
+                481.3763427734375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                643.2117919921875,
+                434.65374755859375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                677.314208984375,
+                489.35968017578125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                659.5525512695312,
+                504.27947998046875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1082.2802734375,
+                447.442138671875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1098.62109375,
+                461.6514587402344
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1075.8861083984375,
+                472.3084716796875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.491943359375,
+                457.388671875
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                -100.69775390625,
+                624.59326171875
+              ],
+              "edge": "Left",
+              "visible": false
+            },
+            {
+              "coords": [
+                82.219970703125,
+                588.3719482421875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                0.721923828125,
+                496.007568359375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                44.1875,
+                673.4920654296875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                149.30189514160156,
+                515.98388671875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                122.65080261230469,
+                593.2720947265625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                8.431869506835938,
+                504.56201171875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                -34.59059143066406,
+                562.4329833984375
+              ],
+              "edge": "Left",
+              "visible": false
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                951.3157348632812,
+                446.18157958984375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                933.412841796875,
+                455.2003173828125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                960.33447265625,
+                454.9311218261719
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                943.9122924804688,
+                464.08447265625
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1107.0045166015625,
+                457.48760986328125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1096.2508544921875,
+                444.7922668457031
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1104.6148681640625,
+                462.7151184082031
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1085.3477783203125,
+                454.7991943359375
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1143.5970458984375,
+                442.10382080078125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1150.467529296875,
+                448.3768310546875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1145.389404296875,
+                453.6043395996094
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1138.668212890625,
+                450.46783447265625
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 9
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "8": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1276.162353515625,
+                569.7264099121094
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1147.7557373046875,
+                441.31982421875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1278.655517578125,
+                325.3798522949219
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1372.1556396484375,
+                463.7597961425781
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                948.1380615234375,
+                580.2648315429688
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                880.19482421875,
+                489.0047912597656
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1026.98974609375,
+                486.8231201171875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                951.8781127929688,
+                457.5264587402344
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                630.1381225585938,
+                504.12640380859375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                640.8784790039062,
+                433.5982360839844
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                675.9635009765625,
+                472.2633972167969
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                608.657470703125,
+                473.33746337890625
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1082.5687255859375,
+                471.8122253417969
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1082.0260009765625,
+                447.6645812988281
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1069.680908203125,
+                455.80426025390625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1098.4410400390625,
+                457.4321594238281
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "9": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                952.9462890625,
+                458.8946838378906
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                876.3629150390625,
+                515.3245239257812
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                958.9923095703125,
+                573.7697143554688
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1035.57568359375,
+                497.1863708496094
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1269.3564453125,
+                321.8507995605469
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1148.435302734375,
+                450.8332824707031
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1263.310302734375,
+                569.739013671875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1374.1546630859375,
+                426.6490783691406
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                642.5821533203125,
+                434.7104797363281
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                600.259765625,
+                470.98681640625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                636.5361328125,
+                499.20172119140625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                682.88916015625,
+                473.0021667480469
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                11.777209281921387,
+                505.2477722167969
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                80.29915618896484,
+                569.739013671875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                58.130287170410156,
+                658.4144897460938
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                3.715803861618042,
+                585.86181640625
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "10": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1281.0067138671875,
+                404.0010986328125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1213.7801513671875,
+                456.1016540527344
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1289.4100341796875,
+                484.67291259765625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1363.359130859375,
+                454.4209899902344
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "TwoWheeler"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1270.9227294921875,
+                331.7325744628906
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1149.9149169921875,
+                472.9082946777344
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1274.2840576171875,
+                545.1768188476562
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1381.846435546875,
+                446.0176696777344
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1082.6884765625,
+                446.0176696777344
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1074.28515625,
+                456.1016540527344
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1087.73046875,
+                464.5049743652344
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1099.4949951171875,
+                454.4209899902344
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1027.2265625,
+                526.6895141601562
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                884.3701782226562,
+                511.56353759765625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                951.5966796875,
+                454.4209899902344
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                954.9580078125,
+                580.470703125
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                650.7142944335938,
+                437.39971923828125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                614.3934326171875,
+                473.7205505371094
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                656.1624145507812,
+                497.3291015625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                674.3228759765625,
+                482.80078125
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                13.019882202148438,
+                513.9700317382812
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                70.60598754882812,
+                589.5518188476562
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                27.41640853881836,
+                666.93310546875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                5.821619510650635,
+                587.7522583007812
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "11": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                2.022047758102417,
+                598.11767578125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                72.60990142822266,
+                582.99169921875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                27.23199462890625,
+                514.0845336914062
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                52.44194030761719,
+                661.98291015625
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                610.422119140625,
+                485.51324462890625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                673.4747314453125,
+                481.678955078125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                646.634765625,
+                433.9634704589844
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                656.0074462890625,
+                502.5544738769531
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                883.7814331054688,
+                515.7626342773438
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1024.1768798828125,
+                520.0170288085938
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1015.2426147460938,
+                577.8770141601562
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                952.7028198242188,
+                457.0517883300781
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                948.8738403320312,
+                446.8412170410156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                937.8123779296875,
+                455.77545166015625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                958.6589965820312,
+                454.0736999511719
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                941.641357421875,
+                458.328125
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1070.2529296875,
+                460.8807678222656
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1097.4810791015625,
+                460.0298767089844
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1085.5687255859375,
+                447.2666320800781
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1095.779296875,
+                470.6658935546875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1137.5584716796875,
+                416.6349182128906
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1191.58935546875,
+                569.3681640625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1256.681884765625,
+                329.16387939453125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1363.8929443359375,
+                460.1996765136719
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1096.9615478515625,
+                445.11798095703125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1107.1934814453125,
+                455.7027893066406
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1089.728515625,
+                447.94061279296875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1104.5472412109375,
+                462.93572998046875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1139.1419677734375,
+                448.8226623535156
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1150.4324951171875,
+                448.11700439453125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1145.1400146484375,
+                443.1774597167969
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1145.3165283203125,
+                453.05657958984375
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                150.1839141845703,
+                551.3236694335938
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                47.049137115478516,
+                523.7169189453125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                126.22331237792969,
+                595.0778198242188
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                143.93333435058594,
+                513.8201293945312
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 9
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "12": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                949.931884765625,
+                447.7088623046875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                884.3848876953125,
+                509.8944396972656
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                956.6546020507812,
+                582.1641235351562
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1027.24365234375,
+                516.6171875
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1264.2210693359375,
+                330.06048583984375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1148.25341796875,
+                509.8944396972656
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1247.4141845703125,
+                570.3992919921875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1368.4239501953125,
+                440.9861145019531
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1083.0682373046875,
+                447.9364318847656
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1068.2220458984375,
+                459.9989318847656
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1082.7589111328125,
+                472.3707275390625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1097.9144287109375,
+                461.2361145019531
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1097.2957763671875,
+                445.7713623046875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1089.5633544921875,
+                446.6992492675781
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1098.532958984375,
+                462.7825927734375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1106.8839111328125,
+                455.3595275878906
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                0.7457355856895447,
+                510.3266296386719
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                -0.9942249059677124,
+                590.3648071289062
+              ],
+              "edge": "Left",
+              "visible": false
+            },
+            {
+              "coords": [
+                24.23520278930664,
+                676.4928588867188
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                79.9139404296875,
+                572.09521484375
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                60.77437210083008,
+                516.41650390625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                40.764827728271484,
+                523.3763427734375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                103.40340423583984,
+                598.1946411132812
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                152.12229919433594,
+                551.2156982421875
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                643.6611328125,
+                444.2081298828125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                609.7318725585938,
+                480.747314453125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                634.9613037109375,
+                502.496826171875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                678.4603271484375,
+                482.4872741699219
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 7
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                947.4338989257812,
+                447.16265869140625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                935.088134765625,
+                454.98162841796875
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                944.55322265625,
+                458.68536376953125
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                959.5739135742188,
+                453.95281982421875
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 8
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "13": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                951.300048828125,
+                458.5072326660156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1029.2080078125,
+                489.9217224121094
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                953.4990844726562,
+                580.3953857421875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                878.1043701171875,
+                491.492431640625
+              ],
+              "edge": "Left",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "14": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                951.2058715820312,
+                459.10546875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                880.5042114257812,
+                499.2334289550781
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1029.5509033203125,
+                508.7876892089844
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                949.2949829101562,
+                579.4893188476562
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1144.2022705078125,
+                464.8380126953125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1264.586181640625,
+                334.89984130859375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1365.8614501953125,
+                461.0163269042969
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1245.4775390625,
+                579.4893188476562
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "15": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                959.407470703125,
+                592.445556640625
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                876.9913330078125,
+                519.0089111328125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                956.1484985351562,
+                452.3109436035156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1041.5679931640625,
+                523.8973388671875
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1145.854248046875,
+                488.0489501953125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1258.287841796875,
+                328.36065673828125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1385.38671875,
+                492.9373474121094
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1253.3994140625,
+                579.2993774414062
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1100.22900390625,
+                457.0889587402344
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1077.4163818359375,
+                442.4237060546875
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1064.380615234375,
+                463.6068420410156
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1087.1932373046875,
+                476.64263916015625
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1194.7384033203125,
+                453.83001708984375
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1369.092041015625,
+                455.4595031738281
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1274.5826416015625,
+                385.3921813964844
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1305.5426025390625,
+                489.67840576171875
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "TwoWheeler"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                605.4967041015625,
+                478.6373596191406
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                678.3563842773438,
+                478.0198974609375
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                644.3963623046875,
+                432.9457092285156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                641.9265747070312,
+                505.1878967285156
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                7.940919876098633,
+                672.9552612304688
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                97.7859878540039,
+                581.2384033203125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                11.684464454650879,
+                500.7521667480469
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                -22.007436752319336,
+                573.7512817382812
+              ],
+              "edge": "Left",
+              "visible": false
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 6
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "16": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                950.3558349609375,
+                586.5546875
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                880.574462890625,
+                518.434814453125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1023.4600830078125,
+                523.419189453125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                948.6943359375,
+                455.2992858886719
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1148.0697021484375,
+                476.89825439453125
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1370.7054443359375,
+                496.8358154296875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1256.064697265625,
+                576.5859375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                1261.049072265625,
+                327.36676025390625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1069.4527587890625,
+                459.1993103027344
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1107.0333251953125,
+                459.7519836425781
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1088.7957763671875,
+                443.17230224609375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1089.9010009765625,
+                473.0157165527344
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                638.739013671875,
+                504.5482177734375
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                607.7879638671875,
+                477.2384948730469
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                676.0623168945312,
+                482.700439453125
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                644.200927734375,
+                433.54290771484375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 4
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                15.164122581481934,
+                684.6299438476562
+              ],
+              "edge": "Top",
+              "visible": true
+            },
+            {
+              "coords": [
+                16.536287307739258,
+                507.620849609375
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                -1.3018416166305542,
+                594.067138671875
+              ],
+              "edge": "Left",
+              "visible": false
+            },
+            {
+              "coords": [
+                76.91149139404297,
+                602.3001098632812
+              ],
+              "edge": "Right",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 5
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ],
+  "17": [
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                605.2273559570312,
+                472.38482666015625
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                643.8295288085938,
+                442.9736328125
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                673.24072265625,
+                476.06121826171875
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                638.31494140625,
+                505.472412109375
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 1
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                877.2809448242188,
+                523.8544311523438
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                945.2943115234375,
+                452.16461181640625
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1026.1751708984375,
+                516.5016479492188
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                958.1617431640625,
+                575.3240356445312
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 2
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    },
+    {
+      "boundaries": [
+        {
+          "boundaryPoints": [
+            {
+              "coords": [
+                1129.1142578125,
+                466.8702087402344
+              ],
+              "edge": "Left",
+              "visible": true
+            },
+            {
+              "coords": [
+                1265.14111328125,
+                323.4906311035156
+              ],
+              "edge": "Bottom",
+              "visible": true
+            },
+            {
+              "coords": [
+                1379.1094970703125,
+                509.1488342285156
+              ],
+              "edge": "Right",
+              "visible": true
+            },
+            {
+              "coords": [
+                1268.8175048828125,
+                579.0004272460938
+              ],
+              "edge": "Top",
+              "visible": true
+            }
+          ],
+          "cameraId": 0
+        }
+      ],
+      "properties": {
+        "ObjectID": 3
+      },
+      "selectionMethod": "outer_points",
+      "type": "Vehicle"
+    }
+  ]
+}
